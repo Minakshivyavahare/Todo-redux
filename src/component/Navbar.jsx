@@ -5,7 +5,8 @@ const Navbar = () => {
    <>
      <nav class="navbar bg-dark">
   <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1 text-light">Todo APPLICATION PROJECT</span>
+    <span class="navbar-brand mb-0 h1 text-light">Todo APPLICATION</span>
+    <span class="text-light">This is todo application.</span>
   </div>
 </nav>
    </>
